@@ -1,0 +1,2 @@
+This is an example text with some a words starting with letters b, c, d, and e.
+There are also some single-letter words like a, I, and others.

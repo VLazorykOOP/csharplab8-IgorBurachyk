@@ -1,0 +1,2 @@
+This is   text with some  words starting with letters , , ,  .
+There   some singleletter words like , ,  others.
